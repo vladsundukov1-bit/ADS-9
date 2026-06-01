@@ -1,13 +1,13 @@
 // Copyright 2022 NNTU-CS
-#include <chrono> 
-#include <cstdlib> 
-#include <fstream> 
-#include <iomanip> 
+#include <chrono>
+#include <cstdlib>
+#include <fstream>
+#include <iomanip>
 #include <iostream>
 #include <locale>
 #include <random>
 #include <vector>
-#include "tree.h" 
+#include "tree.h"
 
 int main() {
   std::vector<char> init = { '1', '2', '3' };
